@@ -1,0 +1,7 @@
+基础指令
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip3 uninstall torch torchvision torchaudio
+pip install ultralytics
+source venv/Scripts/activate
+ssh -p 16442 root@connect.cqa1.seetacloud.com
+gNIbySAf4GHl
